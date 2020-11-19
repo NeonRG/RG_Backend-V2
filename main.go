@@ -10,12 +10,12 @@ import (
 	"runtime"
 	"strings"
 
-	"C:/Go/src/backend/GameSpy"
-	"core"
-	"fesl"
-	"log"
-	"matchmaking"
-	"theater"
+	"github.com/NeonRG/RG_Backend-V2/GameSpy"
+	"github.com/NeonRG/RG_Backend-V2/core"
+	"github.com/NeonRG/RG_Backend-V2/fesl"
+	"github.com/NeonRG/RG_Backend-V2/log"
+	"github.com/NeonRG/RG_Backend-V2/matchmaking"
+	"github.com/NeonRG/RG_Backend-V2/theater"
 
 	"github.com/go-redis/redis"
 	"github.com/gorilla/mux"
