@@ -1,0 +1,12 @@
+*.exe
+GoFesl*
+test*
+.vscode*
+debug*
+*.zip
+config.yml
+.remote-sync.json
+HeroesLogin
+*.pem
+commands
+magma*
