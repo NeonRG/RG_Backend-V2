@@ -7,7 +7,7 @@ import (
 	"os"
 
 	log "../log"
-	client "github.com/NeonRG/influxdb/tree/master/client/v2"
+	client "github.com/influxdata/influxdb"
 )
 
 // DB class to work with MySQL database
